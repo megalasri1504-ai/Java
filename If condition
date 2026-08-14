@@ -1,0 +1,13 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    int n=10;
+	    int a=4;
+	    if(n>0){
+	        System.out.println(n+""+"The number is positive");
+	    }
+	    if(a<0){
+		System.out.println(a+""+"The number is Negative");
+	    }
+	}
+}
